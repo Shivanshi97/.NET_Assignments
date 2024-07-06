@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\",
+  "WorkspaceRootPath": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|e:\\nehal_shivanshi_user5\\ms.net\\daywisehandson\\day7\\ormsolution\\testorm\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|solutionrelative:testorm\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|e:\\nehal_shivanshi_user5\\ms.net\\daywisehandson\\day7\\ormsolution\\testorm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|d:\\pg-dac\\module8_ms.net\\handson\\day7\\ormsolution\\testorm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|solutionrelative:testorm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|e:\\nehal_shivanshi_user5\\ms.net\\daywisehandson\\day7\\ormsolution\\testorm\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|solutionrelative:testorm\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|e:\\nehal_shivanshi_user5\\ms.net\\daywisehandson\\day7\\ormsolution\\testorm\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|d:\\pg-dac\\module8_ms.net\\handson\\day7\\ormsolution\\testorm\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|solutionrelative:testorm\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|e:\\nehal_shivanshi_user5\\ms.net\\daywisehandson\\day7\\ormsolution\\testorm\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|d:\\pg-dac\\module8_ms.net\\handson\\day7\\ormsolution\\testorm\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|solutionrelative:testorm\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|d:\\pg-dac\\module8_ms.net\\handson\\day7\\ormsolution\\testorm\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|solutionrelative:testorm\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|d:\\pg-dac\\module8_ms.net\\handson\\day7\\ormsolution\\testorm\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D14EE41F-E690-4B94-A67B-27B5BB1A50D1}|TestORM\\TestORM.csproj|solutionrelative:testorm\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,30 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DBManager.cs",
-              "DocumentMoniker": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\DBManager.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\DBManager.cs",
               "RelativeDocumentMoniker": "TestORM\\DBManager.cs",
-              "ToolTip": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\DBManager.cs",
+              "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\DBManager.cs",
               "RelativeToolTip": "TestORM\\DBManager.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAqwCwAAAAAAAAA",
+              "ViewState": "AQIAADcAAAAAmZmZmZktwD0AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T10:02:50.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IDBManager.cs",
-              "DocumentMoniker": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\IDBManager.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\IDBManager.cs",
               "RelativeDocumentMoniker": "TestORM\\IDBManager.cs",
-              "ToolTip": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\IDBManager.cs",
+              "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\IDBManager.cs",
               "RelativeToolTip": "TestORM\\IDBManager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T09:59:38.278Z",
               "EditorCaption": ""
@@ -62,37 +66,37 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CollectionContext.cs",
-              "DocumentMoniker": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\CollectionContext.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\CollectionContext.cs",
               "RelativeDocumentMoniker": "TestORM\\CollectionContext.cs",
-              "ToolTip": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\CollectionContext.cs",
+              "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\CollectionContext.cs",
               "RelativeToolTip": "TestORM\\CollectionContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T09:18:55.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Department.cs",
-              "DocumentMoniker": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\Department.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\Department.cs",
               "RelativeDocumentMoniker": "TestORM\\Department.cs",
-              "ToolTip": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\Department.cs",
+              "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\Department.cs",
               "RelativeToolTip": "TestORM\\Department.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T09:17:44.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\Program.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\Program.cs",
               "RelativeDocumentMoniker": "TestORM\\Program.cs",
-              "ToolTip": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\Program.cs",
+              "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\Program.cs",
               "RelativeToolTip": "TestORM\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAA2AAAA",
+              "ViewState": "AQIAADEAAAAAMzMzMzMLwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T09:09:02.317Z",
               "EditorCaption": ""

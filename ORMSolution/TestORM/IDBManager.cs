@@ -11,7 +11,7 @@ using BOL;
     public interface IDBManager
     {
         List<Department> GetAllDepartments();
-        Department GetDepartment(int id);
+        Department GetDepartmentById(int id);
         void Insert(Department dept);
         void Update(Department department);
         void Delete(int id);

@@ -26,7 +26,7 @@ using BOL;
             //throw new NotImplementedException();
         }
         
-        public Department GetDepartment(int id)
+        public Department GetDepartmentById(int id)
         {
             using (var context = new CollectionContext())
             {
@@ -55,12 +55,24 @@ using BOL;
 
         public void Update(Department department)
         {
-           // throw new NotImplementedException();
+        using (var context = new CollectionContext())
+        {
+            var newdept=context.Departments.Find(department.Id);
+            newdept.Name=department.Name;  
+            newdept.Location=department.Location;   
+            context.SaveChanges();
         }
+        // throw new NotImplementedException();
+    }
 
         public void Delete(int id)
         {
-            //throw new NotImplementedException();
+        using (var context = new CollectionContext())
+        {
+            context.Departments.Remove(context.Departments.Find(id));
+            context.SaveChanges();
         }
+        //throw new NotImplementedException();
+    }
     }
 

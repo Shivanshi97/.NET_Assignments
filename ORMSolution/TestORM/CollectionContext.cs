@@ -15,7 +15,7 @@ namespace DAL
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //base.OnConfiguring(optionsBuilder);
-            string connectionString = @"server = localhost; port = 3306; database = dotnetdb; user = root; password = root;";
+            string connectionString = @"server = localhost; port = 3306; database = dotnetdb; user = root; password = root123;";
             optionsBuilder.UseMySQL(connectionString);
         }
 

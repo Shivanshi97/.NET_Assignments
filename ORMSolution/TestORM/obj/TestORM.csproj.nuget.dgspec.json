@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\TestORM.csproj": {}
+    "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\TestORM.csproj": {}
   },
   "projects": {
-    "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\TestORM.csproj": {
+    "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\TestORM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\TestORM.csproj",
+        "projectUniqueName": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\TestORM.csproj",
         "projectName": "TestORM",
-        "projectPath": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\TestORM.csproj",
-        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\Day7\\ORMSolution\\TestORM\\obj\\",
+        "projectPath": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\TestORM.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ORMSolution\\TestORM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
