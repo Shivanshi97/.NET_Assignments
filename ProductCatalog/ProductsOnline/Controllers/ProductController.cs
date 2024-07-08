@@ -8,18 +8,18 @@ namespace ProductsOnline.Controllers
     public class ProductController : Controller
     {
         private IProductServices _productServices;
-        private IDBManager _dbManager;
-
-        public ProductController(ProductServices productServices, DBManager dbManager)
+       
+        public ProductController(IProductServices productServices)
         {
             _productServices = productServices;
-            _dbManager = dbManager;
         }
         public IActionResult Index()
-        {   
+        {
             DBManager dbmanager=new DBManager();
             List<Product> products = dbmanager.GetProducts();
-           
+
+            //List<Product> products = _productServices.GetProducts();
+            ViewData["catalog"] = products;
             return View(products);
         }
 

@@ -11,6 +11,7 @@ namespace ProductsOnline.Repositories
             {
                 var products = from prod in context.Products
                                select prod;
+
                 return products.ToList<Product>();
             }
             //throw new NotImplementedException();

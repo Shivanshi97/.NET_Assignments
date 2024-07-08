@@ -5,11 +5,11 @@ namespace ProductsOnline.Services
 {
     public class ProductServices : IProductServices
     {
-        public DBManager dbmanager;
+        public IDBManager _dbmanager;
 
-        public ProductServices(DBManager dbmanager)
+        public ProductServices(IDBManager dbmanager)
         {
-            this.dbmanager = dbmanager;
+            _dbmanager = dbmanager;
         }
 
        
@@ -21,7 +21,7 @@ namespace ProductsOnline.Services
 */
         public List<Product> GetProducts()
         {
-            dbmanager.GetProducts();
+           return _dbmanager.GetProducts();
         }
 /*
         public void Insert(Product product)

@@ -1,3 +1,4 @@
+using ProductsOnline.Repositories;
 using ProductsOnline.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -5,9 +6,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IProductServices, ProductServices>();
+builder.Services.AddScoped<IDBManager, DBManager>();
 
 var app = builder.Build();
-
 
 
 // Configure the HTTP request pipeline.
