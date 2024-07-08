@@ -4,14 +4,14 @@ namespace ProductsOnline.Repositories
 {
     public interface IDBManager
     {
-        List<Product> GetProducts(GetProductsDelegate getProductsDelegate);
-/*
-        Product GetProductById(GetProductByIdDelegate getproductByIdDelegate, int id);
+        List<Product> GetProducts();
 
-        void Insert(InsertDelegate insertDelegate, Product product);
+        Product GetProductById(int id);
 
-        void Update(UpdateDelegate updateDelegate, Product product);
+        void Insert(Product product);
 
-        void DeleteProductById(DeleteProductByIdDelegate deleteProductByIdDelegate, int id);*/
+        void Update(Product product);
+
+        void DeleteProductById(int id);
     }
 }

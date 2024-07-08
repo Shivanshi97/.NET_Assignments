@@ -1,50 +1,40 @@
 ﻿using ProductsOnline.Models;
+ 
 
 namespace ProductsOnline.Repositories
 {
-    //delegates to connect DBManager with ProductService
-    public delegate List<Product> GetProductsDelegate();
-
-    public delegate Product GetProductByIdDelegate(int id);
-
-    public delegate void InsertDelegate(Product product);
-
-    public delegate void UpdateDelegate(Product product);
-
-    public delegate void DeleteProductByIdDelegate(int id);
-
-
-
-    public class DBManager : IDBManager
+       public class DBManager : IDBManager
     {
-        public List<Product> GetProducts(GetProductsDelegate getProductsDelegate)
+        public List<Product> GetProducts()
         {
-            return getProductsDelegate();
-            //throw new NotImplementedException();
-        }
-/*
-        public Product GetProductById(GetProductByIdDelegate getproductByIdDelegate ,int id)
-        {
-            return getproductByIdDelegate(id);
-            //throw new NotImplementedException();
-        }
-
-        public void Insert(InsertDelegate insertDelegate, Product product)
-        {
-            insertDelegate(product);
+            using (var context = new EStoreCollectionContext())
+            {
+                var products = from prod in context.Products
+                               select prod;
+                return products.ToList<Product>();
+            }
             //throw new NotImplementedException();
         }
 
-        public void Update(UpdateDelegate updateDelegate ,Product product)
+        public Product GetProductById(int id)
         {
-            updateDelegate(product);
-            //throw new NotImplementedException();
+            
+            throw new NotImplementedException();
         }
 
-        public void DeleteProductById(DeleteProductByIdDelegate deleteProductByIdDelegate ,int id)
+        public void Insert(Product product)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(Product product)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void DeleteProductById(int id)
         {   
-            deleteProductByIdDelegate(id);
-            //throw new NotImplementedException();
-        }*/
+            throw new NotImplementedException();
+        }
     }
 }

@@ -7,8 +7,8 @@ namespace ProductsOnline.Controllers
 {
     public class ProductController : Controller
     {
-        private ProductServices _productServices;
-        private DBManager _dbManager;
+        private IProductServices _productServices;
+        private IDBManager _dbManager;
 
         public ProductController(ProductServices productServices, DBManager dbManager)
         {
@@ -18,10 +18,8 @@ namespace ProductsOnline.Controllers
         public IActionResult Index()
         {   
             DBManager dbmanager=new DBManager();
-            List<Product> products = dbmanager.GetProducts(()=>_productServices.GetProducts());
-            //invokes the GetProducts() method of ProductServices via DBManager,
-            //assuming ProductServices implements GetProductsDelegate.
-
+            List<Product> products = dbmanager.GetProducts();
+           
             return View(products);
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj": {}
+    "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj": {}
   },
   "projects": {
-    "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj": {
+    "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj",
+        "projectUniqueName": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj",
         "projectName": "ProductsOnline",
-        "projectPath": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj",
+        "projectPath": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ProductCatalog\\ProductsOnline\\obj\\",
+        "outputPath": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6x2ilhTdJIM=",
+  "dgSpecHash": "n/AwHgfrubY=",
   "success": true,
-  "projectFilePath": "D:\\PG-DAC\\MODULE8_MS.NET\\HandsOn\\day7\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj",
+  "projectFilePath": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
