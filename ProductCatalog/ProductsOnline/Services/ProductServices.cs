@@ -21,7 +21,7 @@ namespace ProductsOnline.Services
 */
         public List<Product> GetProducts()
         {
-           return _dbmanager.GetProducts();
+           return _dbmanager.GetAllProducts();
         }
 /*
         public void Insert(Product product)

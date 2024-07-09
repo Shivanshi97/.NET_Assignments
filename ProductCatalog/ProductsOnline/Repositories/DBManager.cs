@@ -5,7 +5,7 @@ namespace ProductsOnline.Repositories
 {
        public class DBManager : IDBManager
     {
-        public List<Product> GetProducts()
+        public List<Product> GetAllProducts()
         {
             using (var context = new EStoreCollectionContext())
             {

@@ -10,7 +10,7 @@ namespace ProductsOnline.Repositories
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string constr = @"server=localhost, port=3306, user=root, database=dotnetdb, password=root123";
+            string constr = @"server=localhost;port=3306;user=root;database=dotnetdb;password=root";
             optionsBuilder.UseMySQL(constr);
         }
 
@@ -21,9 +21,9 @@ namespace ProductsOnline.Repositories
             modelBuilder.Entity<Product>(entity =>
             {
                 entity.HasKey(e => e.Id);
-                entity.Property(e => e.Name).IsRequired();
+                entity.Property(e => e.Title).IsRequired();
                 entity.Property(e => e.Description).IsRequired();
-                entity.Property(e => e.UnitPrice).IsRequired();
+                //entity.Property(e => e.UnitPrice).IsRequired();
                 entity.Property(e => e.Quantity).IsRequired();
             });
             modelBuilder.Entity<Product>().ToTable("products");

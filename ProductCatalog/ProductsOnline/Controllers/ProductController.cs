@@ -15,11 +15,13 @@ namespace ProductsOnline.Controllers
         }
         public IActionResult Index()
         {
-            DBManager dbmanager=new DBManager();
-            List<Product> products = dbmanager.GetProducts();
+            /*DBManager dbmanager=new DBManager();
+            List<Product> products = dbmanager.GetProducts();*/
 
-            //List<Product> products = _productServices.GetProducts();
+            /*List<Product> products = _productServices.GetProducts();*/
+            List<Product> products = _productServices.GetProducts();
             ViewData["catalog"] = products;
+            //return Json(products);
             return View(products);
         }
 

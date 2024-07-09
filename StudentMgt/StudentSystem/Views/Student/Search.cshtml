@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<h1>Student by Status</h1>
+<ol>
+    @{
+        List<Student> allStudents = (List<Student>)ViewData["status"];
+        foreach (Student st in allStudents)
+        {
+            <li>@st.ToString()</li>
+        }
+    }
+</ol>

@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Student Details</h1>
+<ol>
+    @{
+        Student student = (Student)ViewData["logged"];
+        <p>@student.ToString()</p>
+    }
+    }
+</ol>

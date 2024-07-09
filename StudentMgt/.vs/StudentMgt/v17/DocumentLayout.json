@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4483A154-7F18-4B94-81B2-B325DFA852D6}|StudentSystem\\StudentSystem.csproj|d:\\pg-dac\\module8_ms.net\\.net_assignments\\studentmgt\\studentsystem\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4483A154-7F18-4B94-81B2-B325DFA852D6}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4483A154-7F18-4B94-81B2-B325DFA852D6}|StudentSystem\\StudentSystem.csproj|d:\\pg-dac\\module8_ms.net\\.net_assignments\\studentmgt\\studentsystem\\repositories\\studentcollectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4483A154-7F18-4B94-81B2-B325DFA852D6}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\repositories\\studentcollectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4483A154-7F18-4B94-81B2-B325DFA852D6}|StudentSystem\\StudentSystem.csproj|d:\\pg-dac\\module8_ms.net\\.net_assignments\\studentmgt\\studentsystem\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4483A154-7F18-4B94-81B2-B325DFA852D6}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4483A154-7F18-4B94-81B2-B325DFA852D6}|StudentSystem\\StudentSystem.csproj|d:\\pg-dac\\module8_ms.net\\.net_assignments\\studentmgt\\studentsystem\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4483A154-7F18-4B94-81B2-B325DFA852D6}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,46 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentCollectionContext.cs",
               "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Repositories\\StudentCollectionContext.cs",
               "RelativeDocumentMoniker": "StudentSystem\\Repositories\\StudentCollectionContext.cs",
               "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Repositories\\StudentCollectionContext.cs",
               "RelativeToolTip": "StudentSystem\\Repositories\\StudentCollectionContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T14:53:07.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "StudentSystem\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "StudentSystem\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:46:38.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "StudentSystem\\Views\\Student\\Index.cshtml",
-              "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "StudentSystem\\Views\\Student\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T14:45:12.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DBManager.cs",
               "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Repositories\\DBManager.cs",
               "RelativeDocumentMoniker": "StudentSystem\\Repositories\\DBManager.cs",
@@ -97,12 +71,36 @@
               "RelativeToolTip": "StudentSystem\\Repositories\\DBManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:42:05.208Z",
+              "WhenOpened": "2024-07-08T14:42:05.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Models\\Students.cs",
+              "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Models\\Students.cs",
+              "RelativeToolTip": "StudentSystem\\Models\\Students.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:28:49.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentSystem\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentSystem\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T14:45:12.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IDBManager.cs",
               "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Repositories\\IDBManager.cs",
               "RelativeDocumentMoniker": "StudentSystem\\Repositories\\IDBManager.cs",
@@ -110,12 +108,11 @@
               "RelativeToolTip": "StudentSystem\\Repositories\\IDBManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:41:52.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T14:41:52.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "StudentServices.cs",
               "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Services\\StudentServices.cs",
               "RelativeDocumentMoniker": "StudentSystem\\Services\\StudentServices.cs",
@@ -123,12 +120,23 @@
               "RelativeToolTip": "StudentSystem\\Services\\StudentServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:40:01.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T14:40:01.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:46:38.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IStudentServices.cs",
               "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Services\\IStudentServices.cs",
               "RelativeDocumentMoniker": "StudentSystem\\Services\\IStudentServices.cs",
@@ -136,21 +144,7 @@
               "RelativeToolTip": "StudentSystem\\Services\\IStudentServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:38:45.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Students.cs",
-              "DocumentMoniker": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Models\\Students.cs",
-              "RelativeDocumentMoniker": "StudentSystem\\Models\\Students.cs",
-              "ToolTip": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\StudentMgt\\StudentSystem\\Models\\Students.cs",
-              "RelativeToolTip": "StudentSystem\\Models\\Students.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:28:49.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T14:38:45.447Z"
             }
           ]
         }

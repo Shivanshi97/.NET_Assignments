@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form action="/auth/login" method="post">
+    USERNAME:  <input type="text" name="email" id="email" placeholder="Enter email"/><br />
+    PASSWORD:  <input type="text" name="mobilenumber" id="mobilenumber" placeholder="Enter mobile no"/><br />
+
+    <button type="submit" name="login" id="login" >LOGIN</button>
+    <br /><br/>
+    New User?<a href="/auth/register"> Regisdter here!</a>
+</form>

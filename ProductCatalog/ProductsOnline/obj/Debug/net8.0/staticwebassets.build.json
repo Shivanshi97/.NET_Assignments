@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hMj8wG28fJTqG+7DnAdrTID2nZfe5huciGETnvsNQ8Y=",
+  "Hash": "pcLM7E6cfmmlJjvBR9pajw/k9GNwR1VuIaioBsif5IY=",
   "Source": "ProductsOnline",
   "BasePath": "_content/ProductsOnline",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ProductsOnline\\wwwroot",
       "Source": "ProductsOnline",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ProductsOnline.styles.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ProductsOnline.styles.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "ProductsOnline.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ProductsOnline.styles.css"
+      "OriginalItemSpec": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ProductsOnline.styles.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProductsOnline.bundle.scp.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProductsOnline.bundle.scp.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "ProductsOnline.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProductsOnline.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProductsOnline.bundle.scp.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\css\\site.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\favicon.ico",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\js\\site.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\js\\site.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ProductsOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\wwwroot\\",
+      "ContentRoot": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\wwwroot\\",
       "BasePath": "_content/ProductsOnline",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

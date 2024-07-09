@@ -4,7 +4,7 @@ namespace ProductsOnline.Repositories
 {
     public interface IDBManager
     {
-        List<Product> GetProducts();
+        List<Product> GetAllProducts();
 
         Product GetProductById(int id);
 

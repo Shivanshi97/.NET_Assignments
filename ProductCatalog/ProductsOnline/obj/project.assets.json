@@ -1514,19 +1514,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\dac\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj",
+      "projectUniqueName": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj",
       "projectName": "ProductsOnline",
-      "projectPath": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\PG-DAC\\MODULE8_MS.NET\\.NET_Assignments\\ProductCatalog\\ProductsOnline\\obj\\",
+      "projectPath": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\ProductsOnline.csproj",
+      "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+      "outputPath": "E:\\Nehal_Shivanshi_User5\\MS.NET\\DaywiseHandsOn\\ProductCatalog\\ProductsOnline\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
